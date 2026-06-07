@@ -14,6 +14,3 @@ A personal data analytics project combining street photography and Power BI.
 - Excel
 - Power BI
 
-## Dashboard
-
-![Dashboard](dashboard.png)
